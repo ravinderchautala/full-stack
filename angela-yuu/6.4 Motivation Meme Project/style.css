@@ -1,18 +1,18 @@
 body {
   background: #222;
 }
-.photo {
+img {
   border: 5px solid #fff;
-  display: block;
-  margin: 10vh auto;
 }
 h1 {
-  text-align: center;
   color: #fff;
   text-transform: uppercase;
   font-family: "Libre Baskerville", serif;
 }
 p {
-  text-align: center;
   color: #fff;
+}
+.center {
+  text-align: center;
+  margin-top: 5rem;
 }
