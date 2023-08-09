@@ -1,0 +1,17 @@
+body {
+  background: #222;
+}
+.photo {
+  border: 5px solid #fff;
+  display: block;
+  margin: 10vh auto;
+}
+h1 {
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+}
+p {
+  text-align: center;
+  color: #fff;
+}
